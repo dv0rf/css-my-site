@@ -9,6 +9,10 @@ body{
     color: #40514E;
 }
 
+p{
+    line-height: 2;
+}
+
 hr{
     border-style: none;
     border-top-style: dotted;
@@ -78,10 +82,6 @@ h3{
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
-}
-
-.skill-row p{
-    line-height: 2;
 }
 
 .skill-img{
